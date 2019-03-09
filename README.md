@@ -8,7 +8,7 @@
 ## General info
 This is a HTML & CSS project about 'Internet of Things'. 
 * The project contains 5 pages.
-* It is based on Responsive Design.
+* It is based on **Responsive Design**.
 * All pages have liquid layout.
 * Each page has a good example usage of the following web elements;
   * Horizontal and vertical navigation bars within wireframes
